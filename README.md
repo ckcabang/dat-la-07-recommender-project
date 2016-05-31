@@ -1,1 +1,2 @@
-# dat-la-07-recommender-project
+## DAT-07 MovieLens Recommender System
+
